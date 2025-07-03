@@ -1,6 +1,6 @@
 # mwColours
 
-An `R` package providing corporate design (CD) colours of the [University of Applied Sciences](https://www.hs-mittweida.de/). 
+An `R` package providing corporate design (CD) colours of the [University of Applied Sciences Mittweida](https://www.hs-mittweida.de/). 
 
 ## Installation
 
