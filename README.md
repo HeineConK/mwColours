@@ -7,7 +7,7 @@ An `R` package providing corporate design (CD) colours of the [University of App
 This package is not available on CRAN and needs to be installed straight from here, f.e. using the `devtools` package:
 
 ```
-devtools::install_github("...")
+devtools::install_github("https://github.com/HeineConK/mwColours")
 ```
 
 ## Usage
