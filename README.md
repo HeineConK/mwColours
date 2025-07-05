@@ -16,6 +16,4 @@ Run `show_colours` to see the CD colours and their respective names. The functio
 
 ## Disclaimer
 
-This R package is an unofficial resource created and maintained by the author. It is **not affiliated with, endorsed by, or officially supported** by the University of Applied Sciences Mittweida, its Office for Corporate Design Management, or its Office of Public Affairs. The purpose of this package is purely educational and practical — to facilitate quick referencing and use of the university's corporate design colour sets for teaching, internal data visualization, or non-commercial academic purposes.
-Please refer to the official Corporate Design guidelines for authoritative information and correct use of the corporate design assets.
-
+This R package is an unofficial resource. It is **not affiliated with the University of Applied Sciences Mittweida Office for Corporate DesignManagement or Office for Public Affairs**. The purpose of this package is purely educational and practical — to facilitate quick referencing and use of the university's corporate design colour sets for teaching, internal data visualization, or non-commercial academic purposes.
